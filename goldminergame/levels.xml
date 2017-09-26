@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LevelInfo>
+    <Levels>
+        <Level goal="800" no="1">
+            <Gold weight="MEDIUM" x="127" y="197"/>
+            <Gold weight="LITTLE" x="84" y="602"/>
+            <Gold weight="MEDIUM" x="422" y="517"/>
+            <Gold weight="LITTLE" x="487" y="242"/>
+            <Gold weight="LITTLE" x="782" y="259"/>
+            <Gold weight="BIG" x="258" y="359"/>
+            <Stone weight="LITTLE" x="23" y="120"/>
+            <Stone weight="LITTLE" x="40" y="406"/>
+            <Stone weight="LITTLE" x="580" y="398"/>
+            <Stone weight="LITTLE" x="886" y="600"/>
+            <Stone weight="LITTLE" x="958" y="355"/>
+            <Stone weight="LITTLE" x="859" y="125"/>
+            <Gold weight="BIG" x="778" y="410"/>
+        </Level>
+        <Level goal="2000" no="2">
+            <Diamond x="264" y="616"/>
+            <Diamond x="313" y="660"/>
+            <Gold weight="MEDIUM" x="163" y="314"/>
+            <Stone weight="BIG" x="399" y="604"/>
+            <Diamond x="195" y="650"/>
+            <Gold weight="MEDIUM" x="595" y="452"/>
+            <Stone weight="BIG" x="78" y="550"/>
+            <Stone weight="LITTLE" x="177" y="448"/>
+            <Stone weight="LITTLE" x="187" y="209"/>
+            <Stone weight="LITTLE" x="395" y="389"/>
+            <Gold weight="LITTLE" x="423" y="234"/>
+            <Gold weight="BIG" x="770" y="518"/>
+            <SurpriseBag x="23" y="229"/>
+            <Gold weight="LITTLE" x="624" y="281"/>
+            <Stone weight="LITTLE" x="928" y="374"/>
+            <Stone weight="LITTLE" x="717" y="144"/>
+        </Level>
+        <Level goal="3000" no="3">
+            <Stone weight="BIG" x="209" y="266"/>
+            <SurpriseBag x="448" y="181"/>
+            <SurpriseBag x="146" y="389"/>
+            <Gold weight="BIG" x="812" y="230"/>
+            <Gold weight="BIG" x="614" y="586"/>
+            <Gold weight="BIG" x="251" y="490"/>
+            <Diamond x="37" y="301"/>
+            <Diamond x="78" y="594"/>
+            <Gold weight="MEDIUM" x="68" y="164"/>
+            <Gold weight="MEDIUM" x="482" y="340"/>
+            <Gold weight="MEDIUM" x="940" y="404"/>
+            <Stone weight="LITTLE" x="443" y="496"/>
+            <Stone weight="LITTLE" x="707" y="104"/>
+            <Bomb x="15" y="456"/>
+            <Bomb x="662" y="397"/>
+            <Stone weight="BIG" x="809" y="560"/>
+        </Level>
+        <Level goal="5000" no="4">
+            <Diamond x="124" y="468"/>
+            <Diamond x="440" y="568"/>
+            <Diamond x="984" y="452"/>
+            <Gold weight="BIG" x="196" y="605"/>
+            <Gold weight="BIG" x="616" y="429"/>
+            <Gold weight="BIG" x="911" y="599"/>
+            <Gold weight="BIG" x="955" y="237"/>
+            <Stone weight="LITTLE" x="224" y="501"/>
+            <Stone weight="LITTLE" x="444" y="380"/>
+            <Stone weight="LITTLE" x="723" y="220"/>
+            <Stone weight="LITTLE" x="588" y="640"/>
+            <Stone weight="LITTLE" x="214" y="170"/>
+            <Bomb x="437" y="283"/>
+            <Bomb x="817" y="432"/>
+            <Bomb x="71" y="288"/>
+            <Gold weight="MEDIUM" x="490" y="137"/>
+            <SurpriseBag x="51" y="589"/>
+            <SurpriseBag x="741" y="624"/>
+            <Diamond x="274" y="323"/>
+        </Level>
+        <Level goal="6000" no="5">
+            <Diamond x="373" y="559"/>
+            <Gold weight="BIG" x="276" y="366"/>
+            <Stone weight="LITTLE" x="600" y="640"/>
+            <Stone weight="LITTLE" x="419" y="252"/>
+            <Bomb x="552" y="379"/>
+            <Diamond x="140" y="470"/>
+            <Diamond x="803" y="553"/>
+            <Diamond x="321" y="251"/>
+            <Gold weight="BIG" x="897" y="401"/>
+            <Gold weight="BIG" x="721" y="164"/>
+            <Gold weight="BIG" x="32" y="152"/>
+            <SurpriseBag x="219" y="607"/>
+            <SurpriseBag x="696" y="294"/>
+            <SurpriseBag x="948" y="606"/>
+            <Stone weight="LITTLE" x="46" y="363"/>
+            <Stone weight="LITTLE" x="32" y="633"/>
+            <Bomb x="158" y="277"/>
+            <SurpriseBag x="550" y="523"/>
+            <SurpriseBag x="951" y="183"/>
+        </Level>
+    </Levels>
+</LevelInfo>
