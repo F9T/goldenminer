@@ -1,2 +1,2 @@
 # goldenminer
-Gold miner game
+Gold miner game and a minimal creator
